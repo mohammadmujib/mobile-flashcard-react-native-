@@ -7,8 +7,8 @@ The Mobile Flashcards app allows you to create decks of flashcards which you can
 
 To run the app, follow the steps below:
 
-- Run `npm install`
-- Run `npm start`
+- Run `npm install` or `yarn install`
+- Run `npm start` or `yarn start`
 - Use [Expo](https://expo.io/) to run the app on an iOS or Android simulator
 
 ## Device Support
